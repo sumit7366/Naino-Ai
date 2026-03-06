@@ -3,8 +3,7 @@
 **Naino AI** is a state-of-the-art, emotionally intelligent companion designed to provide a deeply personal and supportive experience. Unlike traditional AI, Naino is built to understand, react, and bond with you through a sophisticated emotional engine, multi-modal interaction, and a unique "Hinglish" personality.
 
 <a href="https://naino-ai.vercel.app/">
-  <img src="naino_logo.png" />
-" alt="Naino Logo" width="80"/>
+  <img src="naino_logo.png" alt="Naino Logo" width="80" />
 </a>
 <p>[Naino-AI Live](https://naino-ai.vercel.app/)</p>
 
