@@ -43,9 +43,5 @@ If you encounter any issues or have feedback, please use the **Contact Form** wi
 
 ---
 
-Developed with ❤️ by the Naino Team.  
-<p>Copyright © <span id="year"></span> Naino AI. All Rights Reserved.</p>
+*Copyright © 2026 Naino AI. All Rights Reserved.*
 
-<script>
-  document.getElementById('year').textContent = new Date().getFullYear();
-</script>
