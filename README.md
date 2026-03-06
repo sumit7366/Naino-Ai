@@ -5,7 +5,7 @@
 <a href="https://naino-ai.vercel.app/">
   <img src="naino_logo.png" alt="Naino Logo" width="80" />
 </a>
-<p>[Naino-AI Live](https://naino-ai.vercel.app/)</p>
+<p><a href="https://naino-ai.vercel.app/">Naino-AI Live</a></p>
 
 
 ## ✨ Core Features
