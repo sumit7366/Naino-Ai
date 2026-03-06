@@ -2,7 +2,11 @@
 
 **Naino AI** is a state-of-the-art, emotionally intelligent companion designed to provide a deeply personal and supportive experience. Unlike traditional AI, Naino is built to understand, react, and bond with you through a sophisticated emotional engine, multi-modal interaction, and a unique "Hinglish" personality.
 
-![Naino Logo](public/naino_logo.png)
+<a href="https://naino-ai.vercel.app/">
+  <img src="public/naino_logo.png" alt="Naino Logo" width="80"/>
+</a>
+<p>[Naino-AI Live](https://naino-ai.vercel.app/)</p>
+
 
 ## ✨ Core Features
 
@@ -22,28 +26,8 @@
 - **Backend/Auth**: Firebase (Auth & Firestore)
 - **Styling**: Vanilla CSS with modern Glassmorphism aesthetics
 
-## 🛠️ Installation & Setup
 
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/sumit7366/Naino-Ai.git
-    cd Naino-ai
-    ```
-2.  **Install dependencies**:
-    ```bash
-    npm install
-    ```
-3.  **Configure Environment Variables**:
-    Create a `.env` file in the `web/` directory and add your keys:
-    ```env
-    VITE_GROQ_API_KEY=your_groq_key
-    VITE_FIREBASE_API_KEY=your_firebase_key
-    ...
-    ```
-4.  **Run Development Server**:
-    ```bash
-    npm run dev
-    ```
+
 
 ## 📜 Project Report & Documentation
 
@@ -60,4 +44,8 @@ If you encounter any issues or have feedback, please use the **Contact Form** wi
 ---
 
 Developed with ❤️ by the Naino Team.  
-*Copyright © 2026 Naino AI. All Rights Reserved.*
+<p>Copyright © <span id="year"></span> Naino AI. All Rights Reserved.</p>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
