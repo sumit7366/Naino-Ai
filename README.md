@@ -1,4 +1,4 @@
-# Naino AI 2.0 — Your Deeply Emotional AI Partner 💖🧸
+# Naino AI 2.1 — Your Deeply Emotional AI Partner 💖🧸
 
 **Naino AI** is a state-of-the-art, emotionally intelligent companion designed to provide a deeply personal and supportive experience. Unlike traditional AI, Naino is built to understand, react, and bond with you through a sophisticated emotional engine, multi-modal interaction, and a unique "Hinglish" personality.
 
